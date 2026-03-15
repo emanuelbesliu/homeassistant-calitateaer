@@ -1,0 +1,41 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurare CalitateAer Romania (RNMCA)",
+        "description": "Introduceți datele de autentificare pentru API-ul RNMCA. Puteți obține acces la API contactând RNMCA prin pagina lor de la calitateaer.ro.",
+        "data": {
+          "username": "Nume utilizator",
+          "password": "Parolă"
+        }
+      },
+      "stations": {
+        "title": "Selectare Stații de Monitorizare",
+        "description": "Selectați una sau mai multe stații de monitorizare a calității aerului. Puteți găsi stațiile pe harta de la calitateaer.ro.",
+        "data": {
+          "stations": "Stații de monitorizare"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Date de autentificare invalide. Verificați username-ul și parola.",
+      "cannot_connect": "Nu se poate conecta la serverul calitateaer.ro. Verificați conexiunea la internet.",
+      "no_stations_selected": "Selectați cel puțin o stație de monitorizare.",
+      "unknown": "Eroare necunoscută. Verificați logurile Home Assistant."
+    },
+    "abort": {
+      "already_configured": "Acest cont CalitateAer este deja configurat."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Opțiuni CalitateAer",
+        "description": "Configurați opțiunile pentru integrarea CalitateAer.",
+        "data": {
+          "update_interval": "Interval actualizare (secunde)"
+        }
+      }
+    }
+  }
+}

@@ -160,6 +160,12 @@ actions:
 - [GitHub Issues](https://github.com/emanuelbesliu/homeassistant-calitateaer/issues)
 - [HACS](https://hacs.xyz/)
 
+## ☕ Support the Developer
+
+If you find this project useful, consider buying me a coffee!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/emanuelbesliu)
+
 ## Licență
 
 Acest proiect este distribuit sub licența MIT. Vezi fișierul [LICENSE](LICENSE) pentru detalii.

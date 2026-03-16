@@ -3,6 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/release/emanuelbesliu/homeassistant-calitateaer.svg)](https://github.com/emanuelbesliu/homeassistant-calitateaer/releases)
 [![License](https://img.shields.io/github/license/emanuelbesliu/homeassistant-calitateaer.svg)](LICENSE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/emanuelbesliu)
 
 Integrare Home Assistant pentru monitorizarea calității aerului în România folosind datele de la **Rețeaua Națională de Monitorizare a Calității Aerului (RNMCA)** prin API-ul [calitateaer.ro](https://calitateaer.ro).
 

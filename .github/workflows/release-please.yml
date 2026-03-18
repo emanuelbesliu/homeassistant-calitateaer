@@ -20,8 +20,8 @@ jobs:
         id: release
         uses: googleapis/release-please-action@v4
         with:
-          release-type: python
-          package-name: calitateaer
+          manifest-file: .release-please-manifest.json
+          config-file: release-please-config.json
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Checkout (on release)
